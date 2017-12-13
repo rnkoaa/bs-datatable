@@ -1,0 +1,11 @@
+{
+    "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+    "project": {
+      "name": "ng-datatable"
+    },
+    "defaults": {
+        "build": {
+          "showCircularDependencies": false
+        }
+    }
+}
